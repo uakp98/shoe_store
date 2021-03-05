@@ -1,0 +1,2 @@
+# shoe_store
+This is a eCommerce website template step by step using HTML and CSS and JS. In this e-commerce website template design I created Home page of eCommerce website with banner section, some featured categories images, then some featured products with product price, image and rating. I also made all products page, single product page, shopping cart page, Account (login and registration) page for this Ecommerce Website template.
